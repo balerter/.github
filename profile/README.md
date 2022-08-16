@@ -1,3 +1,3 @@
-Balerter is Script Based Alert Manager
+Balerter is Script Based Alerting Manager
 
 More info https://balerter.com
